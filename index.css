@@ -1,0 +1,15 @@
+#header {
+    font-size: 2rem;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+}
+
+#header h1, h5 {
+    margin: 1.3rem;
+}
+#phases {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 1.5rem;
+}

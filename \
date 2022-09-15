@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <title>Master List</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="./index.css">
+    <script src=""></script>
+    <body>
+        <section id='header'>
+            <h1>Table of Contents</h1>
+            <h6>------</h6>
+            <h5>Javascript Only Curriculum</h5>
+        </section>
+
+        <hr />
+
+        <section id='phases'>
+            <div id='phase-1'>
+                <h2>Phase 1</h2>
+                <ul>
+                    <li><h3>Week 1</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 2</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 3</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                </ul>
+            </div>
+            <div id='phase-2'>
+                <h2>Phase 2</h2>
+                <ul>
+                    <li><h3>Week 1</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 2</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 3</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                </ul>
+            </div>
+            <div id='phase-1'>
+                <h2>Phase 3</h2>
+                <ul>
+                    <li><h3>Week 1</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 2</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 3</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                </ul>
+            </div>
+            <div id='phase-1'>
+                <h2>Phase 4</h2>
+                <ul>
+                    <li><h3>Week 1</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 2</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 3</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                </ul>
+            </div>
+            <div id='phase-1'>
+                <h2>Phase 5</h2>
+                <ul>
+                    <li><h3>Week 1</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 2</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                    <li><h3>Week 3</h3></li>
+                    <ul>
+                        <li>Day 1</li>
+                        <li>Day 2</li>
+                        <li>Day 3</li>
+                        <li>Day 4</li>
+                        <li>Day 5</li>
+                        <li>Weekend</li>
+                    </ul>
+                </ul>
+            </div>
+        </section>
+    </body>
+</html>
