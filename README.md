@@ -3,6 +3,8 @@
 
 Part One: Fundamentals of Computer Science
 
-Chapter 1: What is a computer?
-Chapter 2: How does the internet work?
-Chapter 3: What is a programming language?
+<ol>
+  <li>Chapter 1: What is a computer?</li>
+<li>Chapter 2: How does the internet work?</li>
+<li>Chapter 3: What is a programming language?</li>
+</ol>
